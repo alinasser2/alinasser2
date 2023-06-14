@@ -2,11 +2,11 @@
 <h3 align="center">High-achieving Python developer with expertise in programming and web development. Let's work together to bring your ideas to life!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **full stack web development with Python and Javscript**
 
-- 👨‍💻 All of my projects are available at [for_employers](https://gitfront.io/r/user-8790125/Tk9bxCNANt1Q/for-employers)
+- 👨‍💻 some of my course work are available at [for_employers](https://gitfront.io/r/user-8790125/Tk9bxCNANt1Q/for-employers)
 
-- 💬 Ask me about **Python , Flask, Django**
+- 💬 Ask me about **Python, Flask and Django**
 
 - 📫 How to reach me **alinasserelden@hotmail.com**
 
