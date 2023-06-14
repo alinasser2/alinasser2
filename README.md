@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [for_employers](https://gitfront.io/r/user-8790125/Tk9bxCNANt1Q/for-employers.git)
+- 👨‍💻 All of my projects are available at [for_employers](https://gitfront.io/r/user-8790125/Tk9bxCNANt1Q/for-employers)
 
 - 💬 Ask me about **Python , Flask, Django**
 
