@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ali Nasser</h1>
-<h3 align="center">Full Stack Developer | Python & JavaScript Enthusiast | Always Building</h3>
+<h3 align="center">Full Stack Developer | Laravel · Django · AWS · Vue.js · Spring Boot</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-- 👨‍🎓 Graduated among the **top 10 students** in Computer Science at Cairo University.
-- 🧠 Currently working as a **Full Stack Developer** using Laravel, Vue.js, Spring Boot, AWS & more.
-- 🛠️ Helped build a **real-world construction marketplace**, including vendor control, ElasticSearch integration, and analytics.
-- ⚙️ Set up a complete **testing environment on AWS** mirroring production (RDS, EC2, Load Balancer, S3).
-- 📊 Collaborated cross-functionally with content & marketing teams to boost delivery speed and UX control.
-- 💬 Ask me about **Python, Django, Flask, Laravel, AWS, Docker, Vue.js** and anything backend.
+- 👨‍🎓 Graduated among the **top 10** students in Computer Science at Cairo University.
+- 💻 Full Stack Developer with hands-on experience in **Python, PHP, and Java-based frameworks**.
+- 🚀 Skilled in building backend systems, scalable APIs, and dynamic UIs using modern tools and best practices.
+- 🌐 Experienced with **AWS**, **Docker**, **Linux**, and **Git-based workflows**.
+- 🔍 Familiar with **search engines**, data structures, and writing clean, testable code.
+- 📚 Completed professional certifications from **HarvardX** and **MIT** in Python, Full Stack Web Development, and SQL.
+- 💬 Ask me about: **Django, Laravel, Flask, Spring Boot, Vue.js, REST APIs, AWS**
 
-- 📂 Some coursework & sample projects: [for_employers](https://gitfront.io/r/user-8790125/Tk9bxCNANt1Q/for-employers)
+- 📂 Explore my coursework and personal projects: [for_employers](https://gitfront.io/r/user-8790125/Tk9bxCNANt1Q/for-employers)
 - 📫 Reach me at: **alinasserelden@hotmail.com**
 
 ---
@@ -24,6 +25,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali nasser" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
