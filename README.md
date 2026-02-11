@@ -3,15 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-- 👨‍💻 Currently building full-stack solutions and data dashboards at **Nacita**[cite: 11, 13, 14].
-- 👨‍🎓 Graduated among the **top 10** in Computer Science at **Cairo University**[cite: 5, 50].
-- 💻 **2+ years** of hands-on experience delivering real-world software across diverse industries[cite: 6].
-- 🚀 Expert in transforming manual workflows into **scalable applications** and **AI-powered features**[cite: 7, 22].
-- 🌐 Proficient in **AWS Cloud** infrastructure, from secure deployments to complex testing environments[cite: 24, 33].
-- 🔍 Specialist in **Search Engines (Elasticsearch)** and clean, modular architecture[cite: 28, 31].
-- 📚 Certified by **HarvardX and MIT** in Full Stack Development, SQL, and Python[cite: 56, 57, 58, 59].
-- 💬 Ask me about: **Nest.js, Laravel, Django, Angular, Spring Boot, React Native, and AWS**[cite: 48].
-- 📫 Reach me at: **alinasserelden@hotmail.com** [cite: 4]
+- 👨‍💻 Currently building full-stack solutions and data dashboards.
+- 👨‍🎓 Graduated among the **top 10** in Computer Science at **Cairo University**.
+- 💻 **2+ years** of hands-on experience delivering real-world software across diverse industries.
+- 🚀 Expert in transforming manual workflows into **scalable applications** and **AI-powered features**.
+- 🌐 Proficient in **AWS Cloud** infrastructure, from secure deployments to testing environments.
+- 🔍 Specialist in **Search Engines (Elasticsearch)** and clean, modular architecture.
+- 📚 Certified by **HarvardX and MIT** in Full Stack Development, SQL, and Python.
+- 💬 Ask me about: **Nest.js, Laravel, Django, Angular, Spring Boot, React Native, and AWS**.
+- 📫 Reach me at: **alinasserelden@hotmail.com**
 
 ---
 
