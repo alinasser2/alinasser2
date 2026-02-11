@@ -10,19 +10,14 @@
 - 🔍 Familiar with **search engines**, data structures, and writing clean, testable code.
 - 📚 Completed professional certifications from **HarvardX** and **MIT** in Python, Full Stack Web Development, and SQL.
 - 💬 Ask me about: **Django, Laravel, Flask, Spring Boot, Vue.js, REST APIs, AWS**
-
-- 📂 Explore my coursework and personal projects: [for_employers](https://gitfront.io/r/user-8790125/Tk9bxCNANt1Q/for-employers)
 - 📫 Reach me at: **alinasserelden@hotmail.com**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/ali-nasser-eldeen-17a71b1a0/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali nasser eldeen" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100008061969607" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali nasser" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ali-nasser-1831461a0/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali nasser" height="30" width="40" />
   </a>
 </p>
 
